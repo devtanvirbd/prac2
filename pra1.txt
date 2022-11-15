@@ -1,3 +1,4 @@
 this is practise 1
 this is 2nd line edited in remote
 this ius 3rd line in branchfeaturer br
+logo alignment is centered
